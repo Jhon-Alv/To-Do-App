@@ -22,7 +22,7 @@
 1.  Clona el repositorio:
     
     ```bash
-    git clone https://github.com/tu-usuario/todo-app.git
+    git clone https://github.com/Jhon-Alv/To-Do-App
     ```
     
 2.  Abre el archivo `index.html` en tu navegador.
